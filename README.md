@@ -1,2 +1,2 @@
 # Canvas
-[Demo] (http://sam-94.github.io/canvas)
+[Demo](http://sam-94.github.io/canvas)
